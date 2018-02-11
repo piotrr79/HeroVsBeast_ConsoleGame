@@ -1,10 +1,10 @@
-Simulation of a battle between Hero and a wild Beast - console game
+# Simulation of a battle between Hero and a wild Beast - console game
 
-Istallation: 
+# Istallation: 
 
 1. Clone git repo and from console, form git folder run: php -f Game.php
 
-Game Rules:
+# Game Rules:
 
 1. Every creature has skills: health, strength, defence, speed, luck. The are defined as ranges.
 2. Hero has got also extra skills: rapid strike (strike twice while it’s his turn to attack) 
